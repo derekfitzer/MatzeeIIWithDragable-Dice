@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController{
     
+    // how to rename?
+    
     @IBOutlet weak var backImage: UIImageView!
     @IBOutlet weak var btmImg: UIImageView!
     @IBOutlet weak var topImg: UIImageView!
